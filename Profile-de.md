@@ -18,6 +18,12 @@
 -->
 </a>
 
+Update accelerations:<div align="center"> 
+$$x_i''(t+h) = f_i / m$$
+</div>
+
+<div>$$x_i''(t+h) = f_i / m$$</div>
+
 ---
 ## 📫 Kontakt
 
