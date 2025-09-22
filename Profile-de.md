@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/-Isabelle/HOL-4CAF50?style=for-the-badge&color=282a36&logo=isabelle&logoColor=4CAF50"/>
 -->
 </a>
+
 ---
+
 ## 📫 Kontakt
 
 **Professionelle Profile**: [Akademische Publikationen] | [Technischer Blog]
