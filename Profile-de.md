@@ -17,13 +17,6 @@
 <img src="https://img.shields.io/badge/-Isabelle/HOL-4CAF50?style=for-the-badge&color=282a36&logo=isabelle&logoColor=4CAF50"/>
 -->
 </a>
-
-Update accelerations:<div align="center"> 
-$$x_i''(t+h) = f_i / m$$
-</div>
-
-<div>$$x_i''(t+h) = f_i / m$$</div>
-
 ---
 ## 📫 Kontakt
 
