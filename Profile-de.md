@@ -94,7 +94,7 @@ langfristige Wartbarkeit gewährleisten.
 
 **Unternehmensintegration & Frameworks**
 - **Spring-Ökosystem** - Spring Boot, Spring MVC, Spring WebFlux, Spring Security, Spring Data
-- **Kotlinx-Server-Ökosystem** - Ktor, Jetbrains Exposed (JDBC/R2DBC)
+- **Kotlin Server Ökosystem** - Ktor, Jetbrains Exposed (JDBC/R2DBC)
 - **Build-Systeme & DevOps** - Gradle (Fortgeschritten), Maven, Docker, Kubernetes, CI/CD-Pipelines
 - **Testing & Qualitätssicherung** - Kotest, JUnit, Property-Based Testing, Integrationstests,
   Test-Driven Development, Mutation Testing
