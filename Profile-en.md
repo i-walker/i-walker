@@ -92,6 +92,7 @@ in demanding enterprise environments while maintaining long-term maintainability
 
 **Enterprise Integration & Frameworks**
 - **Spring Ecosystem** - Spring Boot, Spring MVC, Spring WebFlux, Spring Security, Spring Data
+- **Kotlin Server Ecosystem** - Ktor, Jetbrains Exposed (JDBC/R2DBC)
 - **Build Systems & DevOps** - Gradle (Advanced), Maven, Docker, Kubernetes, CI/CD Pipelines
 - **Testing & Quality Assurance** - Kotest, JUnit, Property-Based Testing, Integration Testing,
   Test-Driven Development
