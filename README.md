@@ -36,7 +36,7 @@ Detailed profiles available in [English](Profile-en.md) and [German](Profile-de.
 - 🔬 **Research & Self-Study**:
   * Heterogeneous Unified memory architecture optimization
   * Geometric numerical methods on Apple Silicon for computational physics/chemistry
-  * Information Theory for signal & protocol verification with nonlinearization principles
+  * Formal Methods for signal & protocol verification with nonlinearization principles
 - 📝 **Consulting**: Available for distributed systems, compiler tooling & laboratory research (30h+/week)
 - 🔄 **Certification**: ISO 9001:2015 quality management TÜV-QMB in progress
 
