@@ -18,16 +18,27 @@ Proven experience in **Kotlin/JVM backend systems** and **formal verification** 
 
 **ORCID iD**: 0009-0000-5855-9251
 
+**TÜV Certification**: 
+- certified [Quality Management Specialist](https://app.certif-id.com/expert/public/share/6eciWiiWL0qkc4TT_4E0) ISO 9001:2015 ✅ | valid until Oktober 2028
+
 **Professional Profiles**: [Distributed Systems & Formal Verification](https://github.com/i-walker) | [Apple Silicon Research](https://github.com/settubaDev)
 
-🔍 **Open for hire** - seeking engagements (contract/part-time/full-time). Detailed profiles available in [English](Profile-en.md) and [German](Profile-de.md).
+🔍 **Open for hire** - seeking engagements (contractual/freelance/project-based)
+  
+Detailed profiles available in [English](Profile-en.md) and [German](Profile-de.md).
 
 ## 🔨 Current Work
 
-- **Open Source**: [predictable-agent](https://github.com/predictable-machines/predictable-agents) • Accessible web publications (HTML + Gemini) for mathematics and life sciences • Minimal Lix-powered arm64e Darwin setup
-- 🔬 **Research & Self-Study**: heterogeneous Unified memory architecture optimization • Geometric numerical methods on Apple Silicon for computational physics/chemistry • Formal verification frameworks for distributed systems • Formal methods for signal & protocol verification with nonlinearization principles
+- **Open Source**:
+  * [predictable-agent](https://github.com/predictable-machines/predictable-agents)
+  * Accessible web publications (HTML + Gemini) for mathematics and life sciences in spirit with [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/index_en)
+  * Embedded Swift for auditable bare-metal distributed systems (Arm64) with Governance 
+- 🔬 **Research & Self-Study**:
+  * Heterogeneous Unified memory architecture optimization
+  * Geometric numerical methods on Apple Silicon for computational physics/chemistry
+  * Information Theory for signal & protocol verification with nonlinearization principles
 - 📝 **Consulting**: Available for distributed systems, compiler tooling & laboratory research (30h+/week)
-- 🔄 **Certification**: ISO 9001:2015 quality management (QMF/QMB) in progress
+- 🔄 **Certification**: ISO 9001:2015 quality management TÜV-QMB in progress
 
 ---
 
