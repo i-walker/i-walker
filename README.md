@@ -30,9 +30,8 @@ Detailed profiles available in [English](Profile-en.md) and [German](Profile-de.
 ## 🔨 Current Work
 
 - **Open Source**:
-  * [predictable-agent](https://github.com/predictable-machines/predictable-agents)
   * Accessible web publications (HTML + Gemini) for mathematics and life sciences in spirit with [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/index_en)
-  * Embedded Swift for auditable bare-metal distributed systems (Arm64) with Governance 
+  * Learning Elixir/ Erlang on BEAM
 - 🔬 **Research & Self-Study**:
   * Heterogeneous Unified memory architecture optimization
   * Geometric numerical methods on Apple Silicon for computational physics/chemistry
